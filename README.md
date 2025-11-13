@@ -4,9 +4,9 @@
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huzzi122201&show_icons=true&theme=radical" alt="Huzaifa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Huzzi122201&show_icons=true&theme=radical" alt="Badar's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzzi122201&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badar-92&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
