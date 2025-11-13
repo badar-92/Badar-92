@@ -34,21 +34,7 @@
 
 ---
 
-### 📂 Featured Projects
-
-| Repository                                            | Tech Stack         | Updated            |
-| ----------------------------------------------------- | ------------------ | ------------------ |
-| [Nexium_Huzaifa-Asif_BlogSummarizer](https://github.com/Huzzi122201/Nexium_Huzaifa-Asif_BlogSummarizer) | TypeScript         | Jul 14, 2025       |
-| [-Nexium_Huzaifa-Asif_Quote-Generator](https://github.com/Huzzi122201/-Nexium_Huzaifa-Asif_Quote-Generator)  | TypeScript         | Jul  7, 2025       |
-| [Skillswap](https://github.com/Huzzi122201/Skillswap)                       | JavaScript         | Jun 11, 2025       |
-| [NodeMailer](https://github.com/Huzzi122201/NodeMailer)                     | EJS                | Apr 29, 2025       |
-| [Project-Template](https://github.com/Huzzi122201/Project-Template)         | SCSS               | Apr 16, 2025       |
-| [MyPortfolio](https://github.com/Huzzi122201/MyPortfolio)                   | HTML               | Mar 23, 2025       |
-| [Landing-Page](https://github.com/Huzzi122201/Landing-Page)                 | CSS                | Feb 11, 2025       |
-
----
-
-### 📫 Get in Touch
+ 📫 Get in Touch
 
 - ✉️ Email: `badarbhatt.pk786@gmail.com`
 - 🔗 [LinkedIn](https://www.linkedin.com/in/92-badar)  
