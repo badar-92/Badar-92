@@ -11,10 +11,10 @@
 
 ---
 
-## 👋 Hi, I’m Huzaifa Asif
+## 👋 Hi, I’m Badar Ahmad 
 
-- 🎓 Computer Science student at FAST-NUCES
-- 💻 Building modern web apps & tools with JavaScript/TypeScript
+- 🎓 Computer Science student at University of Lahore (UOL)
+- 💻 Building modern websites  & tools with JavaScript/PHP/Html
 - 🚀 Passionate about full‑stack development, P2P platforms & automation
 
 ---
@@ -50,8 +50,8 @@
 
 ### 📫 Get in Touch
 
-- ✉️ Email: `huzaifaasif80000@gmail.com`
-- 🔗 [LinkedIn](https://www.linkedin.com/in/huzaifa-asif121)  
+- ✉️ Email: `badarbhatt.pk786@gmail.com`
+- 🔗 [LinkedIn](https://www.linkedin.com/in/92-badar)  
    
 
 ---
